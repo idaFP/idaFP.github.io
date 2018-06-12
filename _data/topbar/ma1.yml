@@ -1,0 +1,21 @@
+header:
+path:
+navigation:
+  -
+    name: ma1
+    path: /kurssit/ma1/
+  -
+    name: 1. Luvut ja laskutoimitukset
+    path: /kurssit/ma1/luvutLaskutoimitukset/
+  -
+    name: 2. Potenssi ja logaritmi
+    path: /kurssit/ma1/potenssiLogaritmi/
+  -
+    name: 3. Lukujonot ja summat
+    path: /kurssit/ma1/lukujonotSummat/
+  -
+    name: 4. Funktio
+    path: /kurssit/ma1/funktio/
+  -
+    name: 5. Prosenttilaskenta
+    path: /kurssit/ma1/prosenttilaskenta/

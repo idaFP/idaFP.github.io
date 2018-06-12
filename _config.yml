@@ -1,10 +1,10 @@
 # Site settings
-title: Kisallioppiminen.fi
+title: Matematiikka.fi
 backendbaseurl: "https://matematiikka.github.io/"
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-redirect-from
 
 encoding: UTF-8
@@ -13,9 +13,9 @@ sass:
 
 navigation:
   "Materiaalit": "/"
-  "Blogi": "http://blogs.helsinki.fi/kisallioppiminenlukiossa"
   "Tietoa": "/tietoa.html"
-  "BETA": "https://beta-kisallioppiminen.github.io"
+  # "Blogi": "http://blogs.helsinki.fi/kisallioppiminenlukiossa"
+  # "BETA": "https://beta-kisallioppiminen.github.io"
   # Login button added with js
 
 resources:
