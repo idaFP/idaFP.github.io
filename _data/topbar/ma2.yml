@@ -5,14 +5,14 @@ navigation:
     name: ma2
     path: /kurssit/ma2/
   -
-    name: 1. Ensimmäisen asteen polynomifunktio
+    name: 1. Murtolukulaskuja ja prosentin käsite
     path: /kurssit/ma2/luku1/
   -
-    name: 2. Toisen asteen potenssifunktio ja neliöjuuri
+    name: 2. Desimaalilaskuja
     path: /kurssit/ma2/luku2/
   -
-    name: 3. Toisen asteen polynomifunktio
+    name: 3. Potenssilaskuja
     path: /kurssit/ma2/luku3/
   -
-    name: 4. Korkeamman asteen potenssi- ja polynomifunktiot
+    name: 4. Neliöjuuri
     path: /kurssit/ma2/luku4/

@@ -9,8 +9,8 @@ article th, article td {
 }
 
 .navbar-inverse {
-    background-color: rgba(196, 218, 135, 0.5);
-    border-color: #C4DA87;
+    background-color: rgba(0, 119, 255, 0.4);
+    border-color: #00499E;
 }
 
 .switch {
@@ -47,11 +47,11 @@ article th, article td {
 }
 
 input:checked + .slider {
-    background-color: #4fac53;
+    background-color: #1aa3ff;
 }
 
 input:focus + .slider {
-    box-shadow: 0 0 1px #2196F3;
+    box-shadow: 0 0 1px #2196F3; /* I could change this, it is for the alalevy*/
 }
 
 input:checked + .slider:before {
@@ -104,7 +104,7 @@ div.checkbox {
 }
 
 :root label.checkbox-bootstrap input[type=checkbox]:checked + span.checkbox-placeholder {
-    background: #C4DA87;
+    background: #00ace6;
 }
 
 /* Colored  boxes */
